@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616651985056",
+    "project_id": "kt-telematic-db46a",
+    "storage_bucket": "kt-telematic-db46a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616651985056:android:43bd8ea96d62d86630f9c5",
+        "android_client_info": {
+          "package_name": "com.example.kttelematic.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQZFbj5HLC-iIhTmryzQ0MpaDsSQs1LWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="siq_20">20dp</dimen>
+    <dimen name="siq_16">16dp</dimen>
+    <dimen name="siq_32">32dp</dimen>
+    <dimen name="siq_24">24dp</dimen>
+    <dimen name="siq_12">12dp</dimen>
+    <dimen name="siq_18">18dp</dimen>
+    <dimen name="siq_2">2dp</dimen>
+    <dimen name="siq_8">8</dimen>
+    <dimen name="siq_4">4</dimen>
+    <dimen name="siq_48">48</dimen>
+    <dimen name="siq_10">10</dimen>
+</resources>
